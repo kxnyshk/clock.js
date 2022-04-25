@@ -11,4 +11,4 @@ An online JavaScript application of an analog clock working dynamically and show
 
 ## Hosting
  - The application has been hosted via [Netlify.app](https://netlify.app)
- - Host [link]()
+ - Host [link](https://vanillaclockjs.netlify.app/)
